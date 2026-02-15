@@ -97,7 +97,7 @@ Execute SQL queries
 Open Power BI file to view interactive dashboard
 
 📊 Dashboard Preview
-![Customer Analysis Dashboard](https://github.com/your-username/your-repository-name/blob/main/dashboard/dashboard_screenshot.png)
+![Customer Analysis Dashboard](https://github.com/o4saurabh/customer_analysis/customer_analysis.png)
 
 
 🎯 Project Objective
